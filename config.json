@@ -2,7 +2,7 @@
   "apps": [
     {
       "status": 1,
-      "featured_categories": "Wobbly Cute",
+      "featured_categories": "Kuromi,Melody",
       "show_wallpaper_name": false,
       "show_wallpaper_category": false,
       "show_favorite_button_in_wallpaper_list": true,
@@ -66,174 +66,311 @@
   "categories": [
     {
       "category_id": 1,
-      "category_name": "Cute",
-      "category_image": "https://raw.githubusercontent.com/Rianiapp10/Wobblycute/83f6e884f79a6e25ff7bf58f5683d68b49f95cfd/Category.png"
+      "category_name": "Kuromi",
+      "category_image": "https://raw.githubusercontent.com/Rianiapp10/Kuromisanrio/3abdb724bf974eddb62d3b8cd83f789934316808/TBKUROMI.png"
+    },
+    {
+      "category_id": 2,
+      "category_name": "Melody",
+      "category_image": "https://raw.githubusercontent.com/Rianiapp10/Melodysanrio/fee8806dd56f1cd60585c6cb75786ec915949134/TBMELODY.png"
     }
   ],
   "wallpapers": [
     {
       "wallpaper_id": 1,
-      "category_name": "Wobbly Cute",
-      "wallpaper_name": "Wobbly 1",
+      "category_name": "Kuromi",
+      "wallpaper_name": "Kuromi 1",
       "wallpaper_thumbnail": "",
-      "wallpaper_url": "https://raw.githubusercontent.com/Rianiapp10/Wobblycute/83f6e884f79a6e25ff7bf58f5683d68b49f95cfd/Wobbly1.jpg"
+      "wallpaper_url": "https://raw.githubusercontent.com/Rianiapp10/Kuromisanrio/3abdb724bf974eddb62d3b8cd83f789934316808/Kuromi1.png"
     },
     {
       "wallpaper_id": 2,
-      "category_name": "Wobbly Cute",
-      "wallpaper_name": "Wobbly 2",
+      "category_name": "Kuromi",
+      "wallpaper_name": "Kuromi 2",
       "wallpaper_thumbnail": "",
-      "wallpaper_url": "https://raw.githubusercontent.com/Rianiapp10/Wobblycute/83f6e884f79a6e25ff7bf58f5683d68b49f95cfd/Wobbly10.jpg"
+      "wallpaper_url": "https://raw.githubusercontent.com/Rianiapp10/Kuromisanrio/3abdb724bf974eddb62d3b8cd83f789934316808/Kuromi10.png"
     },
     {
       "wallpaper_id": 3,
-      "category_name": "Wobbly Cute",
-      "wallpaper_name": "Wobbly 3",
+      "category_name": "Kuromi",
+      "wallpaper_name": "Kuromi 3",
       "wallpaper_thumbnail": "",
-      "wallpaper_url": "https://raw.githubusercontent.com/Rianiapp10/Wobblycute/83f6e884f79a6e25ff7bf58f5683d68b49f95cfd/Wobbly11.jpg"
+      "wallpaper_url": "https://raw.githubusercontent.com/Rianiapp10/Kuromisanrio/3abdb724bf974eddb62d3b8cd83f789934316808/Kuromi11.png"
     },
     {
       "wallpaper_id": 4,
-      "category_name": "Wobbly Cute",
-      "wallpaper_name": "Wobbly 4",
+      "category_name": "Kuromi",
+      "wallpaper_name": "Kuromi 4",
       "wallpaper_thumbnail": "",
-      "wallpaper_url": "https://raw.githubusercontent.com/Rianiapp10/Wobblycute/83f6e884f79a6e25ff7bf58f5683d68b49f95cfd/Wobbly12.jpg"
+      "wallpaper_url": "https://raw.githubusercontent.com/Rianiapp10/Kuromisanrio/3abdb724bf974eddb62d3b8cd83f789934316808/Kuromi12.png"
     },
     {
       "wallpaper_id": 5,
-      "category_name": "Wobbly Cute",
-      "wallpaper_name": "Wobbly 5",
+      "category_name": "Kuromi",
+      "wallpaper_name": "Kuromi 5",
       "wallpaper_thumbnail": "",
-      "wallpaper_url": "https://raw.githubusercontent.com/Rianiapp10/Wobblycute/83f6e884f79a6e25ff7bf58f5683d68b49f95cfd/Wobbly13.jpg"
+      "wallpaper_url": "https://raw.githubusercontent.com/Rianiapp10/Kuromisanrio/3abdb724bf974eddb62d3b8cd83f789934316808/Kuromi13.png"
     },
     {
       "wallpaper_id": 6,
-      "category_name": "Wobbly Cute",
-      "wallpaper_name": "Wobbly 6",
+      "category_name": "Kuromi",
+      "wallpaper_name": "Kuromi 6",
       "wallpaper_thumbnail": "",
-      "wallpaper_url": "https://raw.githubusercontent.com/Rianiapp10/Wobblycute/83f6e884f79a6e25ff7bf58f5683d68b49f95cfd/Wobbly14.jpg"
+      "wallpaper_url": "https://raw.githubusercontent.com/Rianiapp10/Kuromisanrio/3abdb724bf974eddb62d3b8cd83f789934316808/Kuromi14.png"
     },
     {
       "wallpaper_id": 7,
-      "category_name": "Wobbly Cute",
-      "wallpaper_name": "Wobbly 7",
+      "category_name": "Kuromi",
+      "wallpaper_name": "Kuromi 7",
       "wallpaper_thumbnail": "",
-      "wallpaper_url": "https://raw.githubusercontent.com/Rianiapp10/Wobblycute/83f6e884f79a6e25ff7bf58f5683d68b49f95cfd/Wobbly15.jpg"
+      "wallpaper_url": "https://raw.githubusercontent.com/Rianiapp10/Kuromisanrio/3abdb724bf974eddb62d3b8cd83f789934316808/Kuromi15.png"
     },
     {
       "wallpaper_id": 8,
-      "category_name": "Wobbly Cute",
-      "wallpaper_name": "Wobbly 8",
+      "category_name": "Kuromi",
+      "wallpaper_name": "Kuromi 8",
       "wallpaper_thumbnail": "",
-      "wallpaper_url": "https://raw.githubusercontent.com/Rianiapp10/Wobblycute/83f6e884f79a6e25ff7bf58f5683d68b49f95cfd/Wobbly16.jpg"
+      "wallpaper_url": "https://raw.githubusercontent.com/Rianiapp10/Kuromisanrio/3abdb724bf974eddb62d3b8cd83f789934316808/Kuromi16.png"
     },
     {
       "wallpaper_id": 9,
-      "category_name": "Wobbly Cute",
-      "wallpaper_name": "Wobbly 9",
+      "category_name": "Kuromi",
+      "wallpaper_name": "Kuromi 9",
       "wallpaper_thumbnail": "",
-      "wallpaper_url": "https://raw.githubusercontent.com/Rianiapp10/Wobblycute/83f6e884f79a6e25ff7bf58f5683d68b49f95cfd/Wobbly17.jpg"
+      "wallpaper_url": "https://raw.githubusercontent.com/Rianiapp10/Kuromisanrio/3abdb724bf974eddb62d3b8cd83f789934316808/Kuromi17.png"
     },
     {
       "wallpaper_id": 10,
-      "category_name": "Wobbly Cute",
-      "wallpaper_name": "Wobbly 10",
+      "category_name": "Kuromi",
+      "wallpaper_name": "Kuromi 10",
       "wallpaper_thumbnail": "",
-      "wallpaper_url": "https://raw.githubusercontent.com/Rianiapp10/Wobblycute/83f6e884f79a6e25ff7bf58f5683d68b49f95cfd/Wobbly18.jpg"
+      "wallpaper_url": "https://raw.githubusercontent.com/Rianiapp10/Kuromisanrio/3abdb724bf974eddb62d3b8cd83f789934316808/Kuromi18.png"
     },
     {
       "wallpaper_id": 11,
-      "category_name": "Wobbly Cute",
-      "wallpaper_name": "Wobbly 11",
+      "category_name": "Kuromi",
+      "wallpaper_name": "Kuromi 11",
       "wallpaper_thumbnail": "",
-      "wallpaper_url": "https://raw.githubusercontent.com/Rianiapp10/Wobblycute/83f6e884f79a6e25ff7bf58f5683d68b49f95cfd/Wobbly19.jpg"
+      "wallpaper_url": "https://raw.githubusercontent.com/Rianiapp10/Kuromisanrio/3abdb724bf974eddb62d3b8cd83f789934316808/Kuromi19.png"
     },
     {
       "wallpaper_id": 12,
-      "category_name": "Wobbly Cute",
-      "wallpaper_name": "Wobbly 12",
+      "category_name": "Kuromi",
+      "wallpaper_name": "Kuromi 12",
       "wallpaper_thumbnail": "",
-      "wallpaper_url": "https://raw.githubusercontent.com/Rianiapp10/Wobblycute/83f6e884f79a6e25ff7bf58f5683d68b49f95cfd/Wobbly2.jpg"
+      "wallpaper_url": "https://raw.githubusercontent.com/Rianiapp10/Kuromisanrio/3abdb724bf974eddb62d3b8cd83f789934316808/Kuromi2.png"
     },
     {
       "wallpaper_id": 13,
-      "category_name": "Wobbly Cute",
-      "wallpaper_name": "Wobbly 13",
+      "category_name": "Kuromi",
+      "wallpaper_name": "Kuromi 13",
       "wallpaper_thumbnail": "",
-      "wallpaper_url": "https://raw.githubusercontent.com/Rianiapp10/Wobblycute/83f6e884f79a6e25ff7bf58f5683d68b49f95cfd/Wobbly20.jpg"
+      "wallpaper_url": "https://raw.githubusercontent.com/Rianiapp10/Kuromisanrio/3abdb724bf974eddb62d3b8cd83f789934316808/Kuromi20.png"
     },
     {
       "wallpaper_id": 14,
-      "category_name": "Wobbly Cute",
-      "wallpaper_name": "Wobbly 14",
+      "category_name": "Kuromi",
+      "wallpaper_name": "Kuromi 14",
       "wallpaper_thumbnail": "",
-      "wallpaper_url": "https://raw.githubusercontent.com/Rianiapp10/Wobblycute/83f6e884f79a6e25ff7bf58f5683d68b49f95cfd/Wobbly21.jpg"
+      "wallpaper_url": "https://raw.githubusercontent.com/Rianiapp10/Kuromisanrio/3abdb724bf974eddb62d3b8cd83f789934316808/Kuromi3.png"
     },
     {
       "wallpaper_id": 15,
-      "category_name": "Wobbly Cute",
-      "wallpaper_name": "Wobbly 15",
+      "category_name": "Kuromi",
+      "wallpaper_name": "Kuromi 15",
       "wallpaper_thumbnail": "",
-      "wallpaper_url": "https://raw.githubusercontent.com/Rianiapp10/Wobblycute/83f6e884f79a6e25ff7bf58f5683d68b49f95cfd/Wobbly22.jpg"
+      "wallpaper_url": "https://raw.githubusercontent.com/Rianiapp10/Kuromisanrio/3abdb724bf974eddb62d3b8cd83f789934316808/Kuromi4.png"
     },
     {
       "wallpaper_id": 16,
-      "category_name": "Wobbly Cute",
-      "wallpaper_name": "Wobbly 16",
+      "category_name": "Kuromi",
+      "wallpaper_name": "Kuromi 16",
       "wallpaper_thumbnail": "",
-      "wallpaper_url": "https://raw.githubusercontent.com/Rianiapp10/Wobblycute/83f6e884f79a6e25ff7bf58f5683d68b49f95cfd/Wobbly23.jpg"
+      "wallpaper_url": "https://raw.githubusercontent.com/Rianiapp10/Kuromisanrio/3abdb724bf974eddb62d3b8cd83f789934316808/Kuromi5.png"
     },
     {
       "wallpaper_id": 17,
-      "category_name": "Wobbly Cute",
-      "wallpaper_name": "Wobbly 17",
+      "category_name": "Kuromi",
+      "wallpaper_name": "Kuromi 17",
       "wallpaper_thumbnail": "",
-      "wallpaper_url": "https://raw.githubusercontent.com/Rianiapp10/Wobblycute/83f6e884f79a6e25ff7bf58f5683d68b49f95cfd/Wobbly3.jpg"
+      "wallpaper_url": "https://raw.githubusercontent.com/Rianiapp10/Kuromisanrio/3abdb724bf974eddb62d3b8cd83f789934316808/Kuromi6.png"
     },
     {
       "wallpaper_id": 18,
-      "category_name": "Wobbly Cute",
-      "wallpaper_name": "Wobbly 18",
+      "category_name": "Kuromi",
+      "wallpaper_name": "Kuromi 18",
       "wallpaper_thumbnail": "",
-      "wallpaper_url": "https://raw.githubusercontent.com/Rianiapp10/Wobblycute/83f6e884f79a6e25ff7bf58f5683d68b49f95cfd/Wobbly4.jpg"
+      "wallpaper_url": "https://raw.githubusercontent.com/Rianiapp10/Kuromisanrio/3abdb724bf974eddb62d3b8cd83f789934316808/Kuromi7.png"
     },
     {
       "wallpaper_id": 19,
-      "category_name": "Wobbly Cute",
-      "wallpaper_name": "Wobbly 19",
+      "category_name": "Kuromi",
+      "wallpaper_name": "Kuromi 19",
       "wallpaper_thumbnail": "",
-      "wallpaper_url": "https://raw.githubusercontent.com/Rianiapp10/Wobblycute/83f6e884f79a6e25ff7bf58f5683d68b49f95cfd/Wobbly5.jpg"
+      "wallpaper_url": "https://raw.githubusercontent.com/Rianiapp10/Kuromisanrio/3abdb724bf974eddb62d3b8cd83f789934316808/Kuromi8.png"
     },
     {
       "wallpaper_id": 20,
-      "category_name": "Wobbly Cute",
-      "wallpaper_name": "Wobbly 20",
+      "category_name": "Kuromi",
+      "wallpaper_name": "Kuromi 20",
       "wallpaper_thumbnail": "",
-      "wallpaper_url": "https://raw.githubusercontent.com/Rianiapp10/Wobblycute/83f6e884f79a6e25ff7bf58f5683d68b49f95cfd/Wobbly6.jpg"
+      "wallpaper_url": "https://raw.githubusercontent.com/Rianiapp10/Kuromisanrio/3abdb724bf974eddb62d3b8cd83f789934316808/Kuromi9.png"
     },
     {
       "wallpaper_id": 21,
-      "category_name": "Wobbly Cute",
-      "wallpaper_name": "Wobbly 21",
+      "category_name": "Melody",
+      "wallpaper_name": "Melody 21",
       "wallpaper_thumbnail": "",
-      "wallpaper_url": "https://raw.githubusercontent.com/Rianiapp10/Wobblycute/83f6e884f79a6e25ff7bf58f5683d68b49f95cfd/Wobbly7.jpg"
+      "wallpaper_url": "https://raw.githubusercontent.com/Rianiapp10/Melodysanrio/fee8806dd56f1cd60585c6cb75786ec915949134/Kuromi21.png"
     },
     {
       "wallpaper_id": 22,
-      "category_name": "Wobbly Cute",
-      "wallpaper_name": "Wobbly 22",
+      "category_name": "Melody",
+      "wallpaper_name": "Melody 22",
       "wallpaper_thumbnail": "",
-      "wallpaper_url": "https://raw.githubusercontent.com/Rianiapp10/Wobblycute/83f6e884f79a6e25ff7bf58f5683d68b49f95cfd/Wobbly8.jpg"
+      "wallpaper_url": "https://raw.githubusercontent.com/Rianiapp10/Melodysanrio/fee8806dd56f1cd60585c6cb75786ec915949134/Kuromi22.png"
     },
     {
       "wallpaper_id": 23,
-      "category_name": "Wobbly Cute",
-      "wallpaper_name": "Wobbly 23",
+      "category_name": "Melody",
+      "wallpaper_name": "Melody 23",
       "wallpaper_thumbnail": "",
-      "wallpaper_url": "https://raw.githubusercontent.com/Rianiapp10/Wobblycute/83f6e884f79a6e25ff7bf58f5683d68b49f95cfd/Wobbly9.jpg"
+      "wallpaper_url": "https://raw.githubusercontent.com/Rianiapp10/Melodysanrio/fee8806dd56f1cd60585c6cb75786ec915949134/Kuromi23.png"
+    },
+    {
+      "wallpaper_id": 24,
+      "category_name": "Melody",
+      "wallpaper_name": "Melody 24",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://raw.githubusercontent.com/Rianiapp10/Melodysanrio/fee8806dd56f1cd60585c6cb75786ec915949134/Kuromi24.png"
+    },
+    {
+      "wallpaper_id": 25,
+      "category_name": "Melody",
+      "wallpaper_name": "Melody 25",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://raw.githubusercontent.com/Rianiapp10/Melodysanrio/fee8806dd56f1cd60585c6cb75786ec915949134/Kuromi25.png"
+    },
+    {
+      "wallpaper_id": 26,
+      "category_name": "Melody",
+      "wallpaper_name": "Melody 26",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://raw.githubusercontent.com/Rianiapp10/Melodysanrio/fee8806dd56f1cd60585c6cb75786ec915949134/Kuromi26.png"
+    },
+    {
+      "wallpaper_id": 27,
+      "category_name": "Melody",
+      "wallpaper_name": "Melody 27",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://raw.githubusercontent.com/Rianiapp10/Melodysanrio/fee8806dd56f1cd60585c6cb75786ec915949134/Kuromi27.png"
+    },
+    {
+      "wallpaper_id": 28,
+      "category_name": "Melody",
+      "wallpaper_name": "Melody 28",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://raw.githubusercontent.com/Rianiapp10/Melodysanrio/fee8806dd56f1cd60585c6cb75786ec915949134/Kuromi28.png"
+    },
+    {
+      "wallpaper_id": 29,
+      "category_name": "Melody",
+      "wallpaper_name": "Melody 29",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://raw.githubusercontent.com/Rianiapp10/Melodysanrio/fee8806dd56f1cd60585c6cb75786ec915949134/Kuromi29.png"
+    },
+    {
+      "wallpaper_id": 30,
+      "category_name": "Melody",
+      "wallpaper_name": "Melody 30",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://raw.githubusercontent.com/Rianiapp10/Melodysanrio/fee8806dd56f1cd60585c6cb75786ec915949134/Kuromi30.png"
+    },
+    {
+      "wallpaper_id": 31,
+      "category_name": "Melody",
+      "wallpaper_name": "Melody 31",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://raw.githubusercontent.com/Rianiapp10/Melodysanrio/fee8806dd56f1cd60585c6cb75786ec915949134/Kuromi31.png"
+    },
+    {
+      "wallpaper_id": 32,
+      "category_name": "Melody",
+      "wallpaper_name": "Melody 32",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://raw.githubusercontent.com/Rianiapp10/Melodysanrio/fee8806dd56f1cd60585c6cb75786ec915949134/Kuromi32.png"
+    },
+    {
+      "wallpaper_id": 33,
+      "category_name": "Melody",
+      "wallpaper_name": "Melody 33",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://raw.githubusercontent.com/Rianiapp10/Melodysanrio/fee8806dd56f1cd60585c6cb75786ec915949134/Kuromi33.png"
+    },
+    {
+      "wallpaper_id": 34,
+      "category_name": "Melody",
+      "wallpaper_name": "Melody 34",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://raw.githubusercontent.com/Rianiapp10/Melodysanrio/fee8806dd56f1cd60585c6cb75786ec915949134/Kuromi34.png"
+    },
+    {
+      "wallpaper_id": 35,
+      "category_name": "Melody",
+      "wallpaper_name": "Melody 35",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://raw.githubusercontent.com/Rianiapp10/Melodysanrio/fee8806dd56f1cd60585c6cb75786ec915949134/Kuromi35.png"
+    },
+    {
+      "wallpaper_id": 36,
+      "category_name": "Melody",
+      "wallpaper_name": "Melody 36",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://raw.githubusercontent.com/Rianiapp10/Melodysanrio/fee8806dd56f1cd60585c6cb75786ec915949134/Kuromi36.png"
+    },
+    {
+      "wallpaper_id": 37,
+      "category_name": "Melody",
+      "wallpaper_name": "Melody 37",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://raw.githubusercontent.com/Rianiapp10/Melodysanrio/fee8806dd56f1cd60585c6cb75786ec915949134/Kuromi37.png"
+    },
+    {
+      "wallpaper_id": 38,
+      "category_name": "Melody",
+      "wallpaper_name": "Melody 38",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://raw.githubusercontent.com/Rianiapp10/Melodysanrio/fee8806dd56f1cd60585c6cb75786ec915949134/Kuromi38.png"
+    },
+    {
+      "wallpaper_id": 39,
+      "category_name": "Melody",
+      "wallpaper_name": "Melody 39",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://raw.githubusercontent.com/Rianiapp10/Melodysanrio/fee8806dd56f1cd60585c6cb75786ec915949134/Kuromi39.png"
+    },
+    {
+      "wallpaper_id": 40,
+      "category_name": "Melody",
+      "wallpaper_name": "Melody 40",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://raw.githubusercontent.com/Rianiapp10/Melodysanrio/fee8806dd56f1cd60585c6cb75786ec915949134/Kuromi40.png"
+    },
+    {
+      "wallpaper_id": 31,
+      "category_name": "Melody",
+      "wallpaper_name": "Melody 41",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://raw.githubusercontent.com/Rianiapp10/Melodysanrio/fee8806dd56f1cd60585c6cb75786ec915949134/Kuromi41.png"
+    },
+    {
+      "wallpaper_id": 42,
+      "category_name": "Melody",
+      "wallpaper_name": "Melody 42",
+      "wallpaper_thumbnail": "",
+      "wallpaper_url": "https://raw.githubusercontent.com/Rianiapp10/Melodysanrio/fee8806dd56f1cd60585c6cb75786ec915949134/Kuromi42.png"
     }
-    
-  ],
+    ],
   "more_apps": [
     {
       "id": 1,
